@@ -8,5 +8,5 @@ I am a junior programmer with a great passion for software development and techn
 
 ### Skills
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,kotlin,react,express,dotnet,nodejs,bootstrap,git,mysql,mongodb,godot" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,kotlin,react,express,dotnet,bootstrap,nodejs,git,mysql,mongodb,godot" />
 </a>
