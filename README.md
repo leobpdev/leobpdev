@@ -10,3 +10,8 @@ I am a junior programmer with a great passion for software development and techn
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,cs,react,express,dotnet,bootstrap,nodejs,git,mysql,mongodb" />
 </a>
+
+### Learning
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular" />
+</a>
