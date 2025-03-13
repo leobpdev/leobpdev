@@ -13,5 +13,5 @@ I am a junior programmer with a great passion for software development and techn
 
 ### Learning
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular" />
+    <img src="https://skillicons.dev/icons?i=typescript,angular" />
 </a>
